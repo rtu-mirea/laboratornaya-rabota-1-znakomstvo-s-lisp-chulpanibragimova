@@ -11,3 +11,5 @@
 (loop for i from 1 to 16
       do (format t "~D,"(factorial i) )
       finally (format t "..~%"))
+      
+      
